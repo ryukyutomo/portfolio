@@ -379,11 +379,15 @@ footer {
       background: #2dd8c8b3;
     }
     .hero-title {
-      font-size: 2.2rem;
+      font-size: 2.0rem;
+      margin-bottom: 0;
     }
       /* タイピングアニメーション */
   @keyframes typing {
     from { width: 0 }
-    to { width: 85% }
+    to { width: 88% }
+  }
+  .hero-subtitle {
+    font-size: 1.0rem;
   }
 }
